@@ -10,3 +10,6 @@
 - MySQL: For data storage and analysis
 ## Visualization
 https://public.tableau.com/views/DashbaordBirdStrikesInUS2000-2011/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link
+## Note
+### The dataset (over 40k records) is too large for GitHub. Please download it from Kaggle:
+Kaggle.com
